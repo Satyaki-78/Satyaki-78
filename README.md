@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Satyaki Das, a Data Science graduate looking for a creative role in a company
 
 <!--
 **Satyaki-78/Satyaki-78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
