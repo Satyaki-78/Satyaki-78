@@ -1,5 +1,12 @@
 ## Hello fellow, I'm a Data Science graduate looking for a creative role in a company.
 
+My active and finished projects cover topics which are diverse but are not limited to the following:
+1. Software development - 2 on-going projects
+2. VBA development for Excel - 1 complete project
+3. Independent package development, serving as a solution to a software development problem I faced
+4. 
+
+
 <!--
 **Satyaki-78/Satyaki-78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
