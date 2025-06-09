@@ -62,7 +62,7 @@
    - ***Project Status -*** **Complete**
    **([Project Link]())**
 
-![Projects-SVG](assets/projects-svg.svg)
+![Projects-SVG](https://github.com/Satyaki-78/profile-config/blob/main/projects-svg.svg)
 
 <!--
 **Satyaki-78/Satyaki-78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
