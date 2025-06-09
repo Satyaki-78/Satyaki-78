@@ -3,8 +3,8 @@
 My active and finished projects cover topics which are diverse but are not limited to the following:
 1. Software development - 2 on-going projects
 2. VBA development for Excel - 1 complete project
-3. Independent package development, serving as a solution to a software development problem I faced
-4. 
+3. Independent package development (solution to a software development problem I faced)
+4. EDA with SQL - upcoming project
 
 
 <!--
