@@ -1,4 +1,4 @@
-## Hello fellow, I'm a Data Science graduate looking for a valuable and creative role in a company.
+## Hello, I'm a Data Science graduate looking for a valuable and creative role in a company.
 
 My active and finished projects cover topics which are diverse but are not limited to the following:
 1. Software development - 2 on-going projects
