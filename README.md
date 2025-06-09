@@ -18,6 +18,8 @@
   </a>
 </p>
 
+![Projects-SVG](https://github.com/Satyaki-78/profile-config/blob/main/projects-svg.svg)
+
 # Personal Projects
 ## ***Purpose of my projects -***
 - **To deepen my understanding on the project topic and field.**
@@ -61,8 +63,6 @@
    - ***Tech Stack -*** **`Excel`** **`Instant Data Scraper`**
    - ***Project Status -*** **Complete**
    **([Project Link]())**
-
-![Projects-SVG](https://github.com/Satyaki-78/profile-config/blob/main/projects-svg.svg)
 
 <!--
 **Satyaki-78/Satyaki-78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
