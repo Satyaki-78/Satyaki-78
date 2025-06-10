@@ -18,8 +18,6 @@
   </a>
 </p>
 
-![Projects-SVG](https://github.com/Satyaki-78/profile-config/blob/main/project-portfolio.html)
-
 # Personal Projects
 ## ***Purpose of my projects -***
 - **To deepen my understanding on the project topic and field.**
