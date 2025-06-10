@@ -7,6 +7,10 @@
 - EDA with SQL - upcoming project
 
 # Skills
+## `Programming Languages`
+[![Python](https://skillicons.dev/icons?i=py&theme=light)](https://docs.python.org/3/tutorial/index.html)
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Microsoft_Visual_Basic_for_Applications_logo.svg" width="100" height="50">
+[![SQL](https://skillicons.dev/icons?i=mysql&theme=light)]()
 
 
 <p align="center">
@@ -27,7 +31,7 @@
 - **Solution to real problems I faced in my major projects.
   Solution projects are ***[`Major Project No 2`](#2-a-dynamic--automatic-data-entry-form-generator)*** & ***[`Minor Project No 1`](#1-custom-trim-function-in-excel)*****
 
-> # Major Projects
+# `Major Projects`
 ## 1. A Python Desktop HRMS Application
    - ***Tech Stack -*** **`Python`** **`PyQt5`** **`MySQL`**
    - ***Project Status -*** **Working On**
@@ -48,7 +52,7 @@
    - ***Project Status -*** **Upcoming**
    **([Project Link]())**
 
-> # Minor Projects
+# `Minor Projects`
 ## 1. Custom Trim Function in Excel
    - ***Tech Stack -*** **`VBA`**
    - ***Project Status -*** **Complete**
