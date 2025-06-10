@@ -1,10 +1,12 @@
 ## Hello, I'm a Data Science graduate looking for a valuable and creative role in a company.
 
+<!--
 *My active, finished and upcoming projects cover topics which are diverse but are not limited to the following:*
 - Software development - 2 on-going projects
 - VBA development for Excel - 1 complete project
 - Independent package development (solution to a software development problem I faced)
 - EDA with SQL - upcoming project
+-->
 
 <p align="center">
   
