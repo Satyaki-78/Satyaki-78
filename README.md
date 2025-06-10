@@ -6,6 +6,9 @@
 - Independent package development (solution to a software development problem I faced)
 - EDA with SQL - upcoming project
 
+# Skills
+
+
 <p align="center">
   <a href="https://drive.google.com/file/d/1zQSazVq-ejr4c-FJTitFwLoVGhkUBec4/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/My%20Resume-02cf87?style=for-the-badge&logo=google-docs&logoColor=white&fontSize=30" alt="Resume" />
