@@ -47,47 +47,38 @@
 <table>
   <tr>
     <td align="center"> <!-- Python -->
-      <br>
       <img src="https://skillicons.dev/icons?i=py&theme=light"><br>
       <code>Proficient</code>
     </td>
     <td align="center"> <!-- VBA -->
-      <br>
-      <img src="https://github.com/Satyaki-78/profile-config/blob/main/vba-logo-image.png" width="90" height="50"><br>
+      <img src="https://github.com/Satyaki-78/profile-config/blob/main/vba-logo-image.png" width="120" height="50"><br>
       <code>Proficient</code>
     </td>
     <td align="center"> <!-- SQL -->
-      <br>
       <img src="https://github.com/Satyaki-78/profile-config/blob/main/sql-icon.png" height="50"><br>
       <code>Intermediate</code>
     </td>
     <td align="center"> <!-- HTML -->
-      <br>
       <img src="https://skillicons.dev/icons?i=html&theme=light"><br>
       <code>Basic</code>
     </td>
     <td align="center"> <!-- CSS -->
-      <br>
       <img src="https://skillicons.dev/icons?i=css&theme=light"><br>
       <code>Basic</code>
     </td>
     <td align="center"> <!-- PHP -->
-      <br>
       <img src="https://skillicons.dev/icons?i=php&theme=light"><br>
       <code>Basic</code>
     </td>
     <td align="center"> <!-- C++ -->
-      <br>
       <img src="https://skillicons.dev/icons?i=cpp&theme=light"><br>
       <code>Basic</code>
     </td>
     <td align="center"> <!-- R -->
-      <br>
       <img src="https://skillicons.dev/icons?i=r&theme=light"><br>
       <code>Basic</code>
     </td>
     <td align="center"> <!-- C -->
-      <br>
       <img src="https://skillicons.dev/icons?i=c&theme=light"><br>
       <code>Basic</code>
     </td>
@@ -103,6 +94,11 @@
 ![tkinter](https://img.shields.io/badge/tkinter-white?style=for-the-badge)
 ![tkinter](https://img.shields.io/badge/custom%20tkinter-white?style=for-the-badge)
 
+| <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="60"> | <img src="https://pandas.pydata.org/static/img/pandas.svg" width="60"> | <img src="https://matplotlib.org/_static/logo2.svg" width="60"> | <img src="https://github.com/Satyaki-78/profile-config/blob/main/pyqt5-log-small-4.jpg" height="40" width="100"> | <img src="https://pbs.twimg.com/profile_images/1137034734872203266/BMH5Eplh_400x400.png" width="30" height="30"><br><code><b>tkinter</b></code> | <img src="https://github.com/Satyaki-78/profile-config/blob/main/CustomTkinter-logo.png" width="180" height="40"> |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+
+
+
 ## `Tools`
 <table>
   <tr>
@@ -110,7 +106,7 @@
       <img src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Excel_Logo_512px.png" width="60" height="60">
     </td>
     <td align="center">
-      <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/MySQL-Logo.wine.png" width="90" height="70">
+      <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/MySQL-Logo.wine.png" width="100" height="80">
     </td>
     <td align="center">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1oijKaUUDNIw2USLgwkLAeXnRe7iHhSKq4JZxDQ6xfMXD-P9W09gxBUQXN-omjTDXcxA" width="100" height="100">
