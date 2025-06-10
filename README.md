@@ -88,8 +88,8 @@
   <img src="https://camo.githubusercontent.com/3eed28e026e4e0220f99e2f4c8a517fcb3a30a1b944c528efc9533ff7840435f/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" 
     width="80" height="80">
   <!-- PyQt5 -->
-  <img src="https://github.com/Satyaki-78/profile-config/blob/main/pyqt5-logo.jpg" 
-    width="150" height="80">
+  <img src="https://github.com/Satyaki-78/profile-config/blob/main/pyqt5-logo-small-4.jpg" 
+    width="80" height="80">
 </div>
 
 
