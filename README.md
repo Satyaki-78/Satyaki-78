@@ -8,9 +8,89 @@
 
 # Skills
 ## `Programming Languages`
-[![Python](https://skillicons.dev/icons?i=py&theme=light)](https://docs.python.org/3/tutorial/index.html)
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Microsoft_Visual_Basic_for_Applications_logo.svg" width="100" height="50">
-[![SQL](https://skillicons.dev/icons?i=mysql&theme=light)]()
+<!--
+<p>
+| ![py](https://skillicons.dev/icons?i=py&theme=light) | `Proficient` |
+|---|---|
+
+&bull; <img src="https://skillicons.dev/icons?i=py&theme=light"> -> <code style="vertical-align: middle;">Proficient</code> &nbsp;
+&bull; <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Microsoft_Visual_Basic_for_Applications_logo.svg" width="100" height="50" style="border: 1px solid black">
+&bull; <img src="https://github.com/Satyaki-78/profile-config/blob/main/sql-icon.png" height=50>
+&bull; <img src="https://skillicons.dev/icons?i=html&theme=light">
+&bull; <img src="https://skillicons.dev/icons?i=css&theme=light">
+&bull; <img src="https://skillicons.dev/icons?i=php&theme=light">
+&bull; <img src="https://skillicons.dev/icons?i=cpp&theme=light">
+&bull; <img src="https://skillicons.dev/icons?i=r&theme=light">
+&bull; <img src="https://skillicons.dev/icons?i=c&theme=light">
+</p>
+-->
+
+<table>
+  <tr>
+    <td align="center"> <!-- Python -->
+      <br>
+      <img src="https://skillicons.dev/icons?i=py&theme=light"><br>
+      <code>Proficient</code>
+    </td>
+    <td align="center"> <!-- VBA -->
+      <br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Microsoft_Visual_Basic_for_Applications_logo.svg" width="90" height="50"><br>
+      <code>Proficient</code>
+    </td>
+    <td align="center"> <!-- SQL -->
+      <br>
+      <img src="https://github.com/Satyaki-78/profile-config/blob/main/sql-icon.png?raw=true" height="50"><br>
+      <code>Intermediate</code>
+    </td>
+    <td align="center"> <!-- HTML -->
+      <br>
+      <img src="https://skillicons.dev/icons?i=html&theme=light"><br>
+      <code>Basic</code>
+    </td>
+    <td align="center"> <!-- CSS -->
+      <br>
+      <img src="https://skillicons.dev/icons?i=css&theme=light"><br>
+      <code>Basic</code>
+    </td>
+    <td align="center"> <!-- PHP -->
+      <br>
+      <img src="https://skillicons.dev/icons?i=php&theme=light"><br>
+      <code>Basic</code>
+    </td>
+    <td align="center"> <!-- C++ -->
+      <br>
+      <img src="https://skillicons.dev/icons?i=cpp&theme=light"><br>
+      <code>Basic</code>
+    </td>
+    <td align="center"> <!-- R -->
+      <br>
+      <img src="https://skillicons.dev/icons?i=r&theme=light"><br>
+      <code>Basic</code>
+    </td>
+    <td align="center"> <!-- C -->
+      <br>
+      <img src="https://skillicons.dev/icons?i=c&theme=light"><br>
+      <code>Basic</code>
+    </td>
+  </tr>
+</table>
+
+
+## `Libraries`
+<div style="display: flex; align-items: center; gap: 10px;">
+  <!-- Numpy -->
+  <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" 
+    width="80" height="80">
+  <!-- Pandas -->
+  <img src="https://camo.githubusercontent.com/0a42ac8f921e01cae2a0d817c61545eeab62e79cfd75720868b47e155954aa80/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461732e737667" 
+    width="80" height="80">
+  <!-- Matplotlib -->
+  <img src="https://camo.githubusercontent.com/3eed28e026e4e0220f99e2f4c8a517fcb3a30a1b944c528efc9533ff7840435f/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" 
+    width="80" height="80">
+  <!-- PyQt5 -->
+  <img src="https://www.pythonguis.com/static/images/libraries/pyqt5.jpg" 
+    width="80" height="80">
+</div>
 
 
 <p align="center">
