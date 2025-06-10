@@ -87,17 +87,12 @@
 
 ## `Libraries`
 
-![NumPy](https://img.shields.io/badge/numpy-white?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/pandas-white?style=for-the-badge&logo=pandas&logoColor=150458)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![PyQt5](https://img.shields.io/badge/PyQt5-white?style=for-the-badge&logo=qt&logoColor=41CD52)
-![tkinter](https://img.shields.io/badge/tkinter-white?style=for-the-badge)
-![tkinter](https://img.shields.io/badge/custom%20tkinter-white?style=for-the-badge)
-
-| <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="60"> | <img src="https://pandas.pydata.org/static/img/pandas.svg" width="60"> | <img src="https://matplotlib.org/_static/logo2.svg" width="60"> | <img src="https://github.com/Satyaki-78/profile-config/blob/main/pyqt5-log-small-4.jpg" height="40" width="100"> | <img src="https://pbs.twimg.com/profile_images/1137034734872203266/BMH5Eplh_400x400.png" width="30" height="30"><br><code><b>tkinter</b></code> | <img src="https://github.com/Satyaki-78/profile-config/blob/main/CustomTkinter-logo.png" width="180" height="40"> |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-
-
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-4B8BBE?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![tkinter](https://img.shields.io/badge/tkinter-grey?style=for-the-badge)
+![tkinter](https://img.shields.io/badge/custom%20tkinter-029cff?style=for-the-badge)
 
 ## `Tools`
 <table>
