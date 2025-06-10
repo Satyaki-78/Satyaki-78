@@ -53,12 +53,12 @@
     </td>
     <td align="center"> <!-- VBA -->
       <br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Microsoft_Visual_Basic_for_Applications_logo.svg" width="120" height="50"><br>
+      <img src="https://github.com/Satyaki-78/profile-config/blob/main/vba-logo-image.png" width="120" height="50"><br>
       <code>Proficient</code>
     </td>
     <td align="center"> <!-- SQL -->
       <br>
-      <img src="https://github.com/Satyaki-78/profile-config/blob/main/sql-icon.png?raw=true" height="50"><br>
+      <img src="https://github.com/Satyaki-78/profile-config/blob/main/sql-icon.png" height="50"><br>
       <code>Intermediate</code>
     </td>
     <td align="center"> <!-- HTML -->
@@ -95,7 +95,13 @@
 </table>
 
 ## `Libraries`
-<div style="overflow-x: auto; width: 100%;">
+
+![NumPy](https://img.shields.io/badge/numpy-white?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/pandas-white?style=for-the-badge&logo=pandas&logoColor=150458)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![PyQt5](https://img.shields.io/badge/PyQt5-white?style=for-the-badge&logo=qt&logoColor=41CD52)
+![tkinter](https://img.shields.io/badge/tkinter-white?style=for-the-badge)
+![tkinter](https://img.shields.io/badge/custom%20tkinter-white?style=for-the-badge)
 <table >
 <tr>
     <td align="center">
@@ -131,7 +137,6 @@
       </td>
 </tr>
 </table>
-</div>
 
 ## `Tools`
 <table >
@@ -153,6 +158,21 @@
   </td>
 </tr>
 </table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Excel_Logo_512px.png" width="60" height="60">
+    </td>
+    <td align="center">
+      <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/MySQL-Logo.wine.png" width="90" height="70">
+    </td>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1oijKaUUDNIw2USLgwkLAeXnRe7iHhSKq4JZxDQ6xfMXD-P9W09gxBUQXN-omjTDXcxA" width="100" height="100">
+    </td>
+  </tr>
+</table>
+
 
 ## `Others`
 <table>
