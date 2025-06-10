@@ -18,7 +18,7 @@
   </a>
 </p>
 
-![Projects-SVG](https://github.com/Satyaki-78/profile-config/blob/main/projects-svg.svg)
+![Projects-SVG](https://github.com/Satyaki-78/profile-config/blob/main/project-portfolio.html)
 
 # Personal Projects
 ## ***Purpose of my projects -***
