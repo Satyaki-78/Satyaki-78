@@ -125,8 +125,13 @@
     <img src="https://github.com/Satyaki-78/profile-config/blob/main/jupyter-seeklogo.svg"
       width=60 height=60>
   </td>
+    <td align="center">
+    <!-- Notepad++ -->
+    <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black">
+  </td>
   </tr>
 </table>
+
 
 # Personal Projects
 ## ***Purpose of my projects -***
