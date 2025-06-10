@@ -95,6 +95,7 @@
 </table>
 
 ## `Libraries`
+<div style="overflow-x: auto; width: 100%;">
 <table >
 <tr>
     <td align="center">
@@ -130,6 +131,7 @@
       </td>
 </tr>
 </table>
+</div>
 
 ## `Tools`
 <table >
