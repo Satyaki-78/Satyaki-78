@@ -51,7 +51,7 @@
       <code>Proficient</code>
     </td>
     <td align="center"> <!-- VBA -->
-      <img src="https://github.com/Satyaki-78/profile-config/blob/main/vba-logo-image.png" width="120" height="50"><br>
+      <img src="https://github.com/Satyaki-78/profile-config/blob/main/vba-logo-image-2.png" width="120" height="50"><br>
       <code>Proficient</code>
     </td>
     <td align="center"> <!-- SQL -->
