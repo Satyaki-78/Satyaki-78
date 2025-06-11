@@ -10,7 +10,7 @@
 
 <p align="center">
   
-  <a href="https://drive.google.com/file/d/1zQSazVq-ejr4c-FJTitFwLoVGhkUBec4/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1pQv2Db72jQU3vt2wKG8MMa51Rr4s225i/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/My%20Resume-03a13a?style=for-the-badge&logo=google-docs&logoColor=white&fontSize=30" alt="Resume" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 02cf87 -->
   
