@@ -143,7 +143,7 @@
 ## 1. A Python Desktop HRMS Application
    - ***Tech Stack -*** **`Python`** **`PyQt5`** **`MySQL`**
    - ***Project Status -*** **Working On**
-   **([Project Link]())**
+   **([Project Link]())** `
    
 ## 2. A Dynamic & Automatic Data Entry Form Generator
    - ***Tech Stack -*** **`Python`** **`tkinter`** **`customtkinter`** **`MySQL`** 
@@ -166,7 +166,7 @@
    - ***Project Status -*** **Complete**
    **([Project Link]())**
 
-## 2. Python CLI CRUD Software**
+## 2. Python CLI CRUD Software
    - ***Tech Stack -*** **`Python`** **`MySQL`**
    - ***Project Status -*** **Complete**
    **([Project Link]())**
