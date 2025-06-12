@@ -114,30 +114,10 @@
 
 
 ## `Others`
-<table>
-  <tr>
-    <td align="center">
-    <!-- VS Code -->
-      <img src="https://skillicons.dev/icons?i=vscode&theme=light">
-    <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"
-      width=60 height=60> -->
-  </td>
-    <td align="center">
-    <!-- Jupyter Notebook -->
-      <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-    <!-- <img src="https://github.com/Satyaki-78/profile-config/blob/main/jupyter-seeklogo.svg"
-      width=60 height=60> -->
-  </td>
-    <td align="center">
-    <!-- Notepad++ -->
-    <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black">
-  </td>
-    <td align="center">
-    <!-- Xampp -->
-    <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white">
-  </td>
-  </tr>
-</table>
+![VS Code](https://skillicons.dev/icons?i=vscode&theme=light)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 
 # Personal Projects
