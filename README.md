@@ -99,8 +99,9 @@
 ## `Tools`
 <table>
   <tr>
-    <td align="center">
+    <td align="center"> <!-- Excel -->
       <img src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Excel_Logo_512px.png" width="60" height="60">
+      <br><code>Advanced</code>
     </td>
     <td align="center">
       <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/MySQL-Logo.wine.png" width="100" height="80">
@@ -128,6 +129,10 @@
     <td align="center">
     <!-- Notepad++ -->
     <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black">
+  </td>
+    <td align="center">
+    <!-- Xampp -->
+    <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white">
   </td>
   </tr>
 </table>
