@@ -118,13 +118,15 @@
   <tr>
     <td align="center">
     <!-- VS Code -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"
-      width=60 height=60>
+      <img src="https://skillicons.dev/icons?i=vscode&theme=light">
+    <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"
+      width=60 height=60> -->
   </td>
     <td align="center">
     <!-- Jupyter Notebook -->
-    <img src="https://github.com/Satyaki-78/profile-config/blob/main/jupyter-seeklogo.svg"
-      width=60 height=60>
+      <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+    <!-- <img src="https://github.com/Satyaki-78/profile-config/blob/main/jupyter-seeklogo.svg"
+      width=60 height=60> -->
   </td>
     <td align="center">
     <!-- Notepad++ -->
