@@ -130,22 +130,22 @@
 ## 1. A Python Desktop HRMS Application
    - ***Tech Stack -*** **`Python`** **`PyQt5`** **`MySQL`**
    - ***Project Status -*** **Working On**
-   **([Project Link]())** `
+   **([Project Link](https://github.com/Satyaki-78/Python_HRMS))** `
    
 ## 2. A Dynamic & Automatic Data Entry Form Generator
    - ***Tech Stack -*** **`Python`** **`tkinter`** **`customtkinter`** **`MySQL`** 
    - ***Project Status -*** **Working On**
-   **([Project Link]())**
+   **([Project Link](https://github.com/Satyaki-78/tkinter_Dynamic_CRUD_App))**
    
 ## 3. A Real Life HRMS Application For Small-Medium Sized Companies
    - ***Tech Stack -*** **`Visual Basic 6.0`** **`MS Access`**  
    - ***Project Status -*** **Near Deployment !!**
-   **([Project Link]())**
+   **([Project Link](https://github.com/Satyaki-78/Employee_Salary_System))**
 
 ## 4. Real Life based Complete Data Analysis on Real Data with SQL
    - ***Tech Stack -*** **`SQL`** **`Python`** **`Tableau/Power BI`**  
    - ***Project Status -*** **Upcoming**
-   **([Project Link]())**
+  <!-- **([Project Link]())** -->
 
 # `Minor Projects`
 ## 1. Custom Trim Function in Excel
@@ -156,13 +156,14 @@
 ## 2. Python CLI CRUD Software
    - ***Tech Stack -*** **`Python`** **`MySQL`**
    - ***Project Status -*** **Complete**
-   **([Project Link]())**
+   **([Project Link](https://github.com/Satyaki-78/Python_CLI_CRUD_app/blob/main/sqlapp_CLI.py))**
 
 # Internship Project
 ## 1. Raw Data Collection & Cleaning with Excel
    - ***Tech Stack -*** **`Excel`** **`Instant Data Scraper`**
    - ***Project Status -*** **Complete**
-   **([Project Link]())**
+   - I will upload this project as soon as I can, I am bit busy right now :)
+   <!-- **([Project Link]())** -->
 
 <!--
 **Satyaki-78/Satyaki-78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
