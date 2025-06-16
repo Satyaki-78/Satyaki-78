@@ -151,12 +151,12 @@
 ## 1. Custom Trim Function in Excel
    - ***Tech Stack -*** **`VBA`**
    - ***Project Status -*** **Complete**
-   **([Project Link](https://github.com/Satyaki-78/Excel_Custom_Trim_Function/blob/main/AnyTrim_Function))**
+   **([Project Link](https://github.com/Satyaki-78/Excel_Custom_Trim_Function))**
 
 ## 2. Python CLI CRUD Software
    - ***Tech Stack -*** **`Python`** **`MySQL`**
    - ***Project Status -*** **Complete**
-   **([Project Link](https://github.com/Satyaki-78/Python_CLI_CRUD_app/blob/main/sqlapp_CLI.py))**
+   **([Project Link](https://github.com/Satyaki-78/Python_CLI_CRUD_app))**
 
 # Internship Project
 ## 1. Raw Data Collection & Cleaning with Excel
