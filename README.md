@@ -151,7 +151,7 @@
 ## 1. Custom Trim Function in Excel
    - ***Tech Stack -*** **`VBA`**
    - ***Project Status -*** **Complete**
-   **([Project Link]())**
+   **([Project Link](https://github.com/Satyaki-78/Excel_Custom_Trim_Function/blob/main/AnyTrim_Function))**
 
 ## 2. Python CLI CRUD Software
    - ***Tech Stack -*** **`Python`** **`MySQL`**
