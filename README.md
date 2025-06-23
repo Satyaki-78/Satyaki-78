@@ -143,7 +143,7 @@
    **([Project Link](https://github.com/Satyaki-78/Employee_Salary_System))**
 
 ### 4. Professional Level SQL Data Analysis
-   - ***Tech Stack -*** **`Microsoft SMSS 21`** **`MS SQL Developer Server`**  
+   - ***Tech Stack -*** **`Microsoft SSMS 21`** **`MS SQL Developer Server`**  
    - ***Project Status -*** **Complete**
    **([Project Link](https://github.com/Satyaki-78/SQL_Professional_Data_Analysis))**
 
