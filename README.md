@@ -121,45 +121,50 @@
 
 
 # Personal Projects
-## ***Purpose of my projects -***
+### ***Purpose of my projects -***
 - **To deepen my understanding on the project topic and field.**
 - **Solution to real problems I faced in my major projects.
   Solution projects are ***[`Major Project No 2`](#2-a-dynamic--automatic-data-entry-form-generator)*** & ***[`Minor Project No 1`](#1-custom-trim-function-in-excel)*****
 
 # `Major Projects`
-## 1. A Python Desktop HRMS Application
+### 1. A Python Desktop HRMS Application
    - ***Tech Stack -*** **`Python`** **`PyQt5`** **`MySQL`**
    - ***Project Status -*** **Working On**
    **([Project Link](https://github.com/Satyaki-78/Python_HRMS))** `
    
-## 2. A Dynamic & Automatic Data Entry Form Generator
+### 2. A Dynamic & Automatic Data Entry Form Generator
    - ***Tech Stack -*** **`Python`** **`tkinter`** **`customtkinter`** **`MySQL`** 
    - ***Project Status -*** **Working On**
    **([Project Link](https://github.com/Satyaki-78/tkinter_Dynamic_CRUD_App))**
    
-## 3. A Real Life HRMS Application For Small-Medium Sized Companies
+### 3. A Real Life HRMS Application For Small-Medium Sized Companies
    - ***Tech Stack -*** **`Visual Basic 6.0`** **`MS Access`**  
    - ***Project Status -*** **Near Deployment !!**
    **([Project Link](https://github.com/Satyaki-78/Employee_Salary_System))**
 
-## 4. Real Life based Complete Data Analysis on Real Data with SQL
+### 4. Professional Level SQL Data Analysis
+   - ***Tech Stack -*** **`Microsoft SMSS 21`** **`MS SQL Developer Server`**  
+   - ***Project Status -*** **Complete**
+   **([Project Link](https://github.com/Satyaki-78/SQL_Professional_Data_Analysis))**
+
+### 5. Real Life based Complete Data Analysis on Real Data with SQL
    - ***Tech Stack -*** **`SQL`** **`Python`** **`Tableau/Power BI`**  
    - ***Project Status -*** **Upcoming**
   <!-- **([Project Link]())** -->
 
 # `Minor Projects`
-## 1. Custom Trim Function in Excel
+### 1. Custom Trim Function in Excel
    - ***Tech Stack -*** **`VBA`**
    - ***Project Status -*** **Complete**
    **([Project Link](https://github.com/Satyaki-78/Excel_Custom_Trim_Function))**
 
-## 2. Python CLI CRUD Software
+### 2. Python CLI CRUD Software
    - ***Tech Stack -*** **`Python`** **`MySQL`**
    - ***Project Status -*** **Complete**
    **([Project Link](https://github.com/Satyaki-78/Python_CLI_CRUD_app))**
 
 # Internship Project
-## 1. Raw Data Collection & Cleaning with Excel
+### 1. Raw Data Collection & Cleaning with Excel
    - ***Tech Stack -*** **`Excel`** **`Instant Data Scraper`**
    - ***Project Status -*** **Complete**
    - I will upload this project as soon as I can, I am bit busy right now :)
